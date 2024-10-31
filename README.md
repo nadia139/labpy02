@@ -6,6 +6,7 @@
  
  
  
+ 
  Kasus 2: Program Kalkulator Sederhana
  Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dari
  pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan
